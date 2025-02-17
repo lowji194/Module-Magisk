@@ -1,3 +1,5 @@
+[![🇺🇸 English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=Google%20Translate)](README-EN.md)
+---
 # Hướng Dẫn Cài Đặt Module Magisk
 
 Magisk là một công cụ mạnh mẽ để root thiết bị Android mà không làm thay đổi hệ thống. Bạn có thể cài đặt các module Magisk để bổ sung tính năng mới cho thiết bị của mình. Dưới đây là hướng dẫn cài đặt hai module Magisk nổi bật.
