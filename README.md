@@ -4,7 +4,7 @@ Magisk là một công cụ mạnh mẽ để root thiết bị Android mà khô
 
 ## Giới Thiệu Các Module
 
-### 1. [AutoTCP](https://github.com/lowji194/linh-tinh/raw/refs/heads/main/Module-Magisk/AutoTCP.zip)
+### 1. [AutoTCP](https://github.com/lowji194/Module-Magisk/raw/refs/heads/main/AutoTCP.zip)
 
 Module **AutoTCP** tự động mở kết nối TCP qua cổng **5555**. Điều này rất hữu ích nếu bạn muốn thiết lập kết nối ADB không dây hoặc cho các mục đích phát triển khác mà không phải thủ công mở kết nối mỗi lần.
 
@@ -12,9 +12,9 @@ Module **AutoTCP** tự động mở kết nối TCP qua cổng **5555**. Điề
   - Tự động mở cổng **TCP 5555**.
   - Tiện lợi khi phát triển và kiểm tra kết nối ADB qua mạng.
 
-- **Tải về**: [Tải AutoTCP.zip](https://github.com/lowji194/linh-tinh/raw/refs/heads/main/Module-Magisk/AutoTCP.zip)
+- **Tải về**: [Tải AutoTCP.zip](https://github.com/lowji194/Module-Magisk/raw/refs/heads/main/AutoTCP.zip)
 
-### 2. [Auto ADB Enable](https://github.com/lowji194/linh-tinh/raw/refs/heads/main/Module-Magisk/Auto_ADB_Enable.zip)
+### 2. [Auto ADB Enable](https://github.com/lowji194/Module-Magisk/raw/refs/heads/main/Auto_ADB_Enable.zip)
 
 Module **Auto ADB Enable** tự động xác nhận và kích hoạt kết nối ADB khi thiết bị khởi động. Điều này giúp tiết kiệm thời gian khi bạn không cần phải thủ công bật ADB mỗi khi khởi động lại thiết bị.
 
@@ -22,7 +22,7 @@ Module **Auto ADB Enable** tự động xác nhận và kích hoạt kết nối
   - Tự động bật chế độ ADB khi thiết bị khởi động.
   - Tiện lợi cho các nhà phát triển hoặc những ai thường xuyên sử dụng ADB.
 
-- **Tải về**: [Tải Auto ADB Enable.zip](https://github.com/lowji194/linh-tinh/raw/refs/heads/main/Module-Magisk/Auto_ADB_Enable.zip)
+- **Tải về**: [Tải Auto ADB Enable.zip](https://github.com/lowji194/Module-Magisk/raw/refs/heads/main/Auto_ADB_Enable.zip)
 
 ## Các Bước Cài Đặt
 
