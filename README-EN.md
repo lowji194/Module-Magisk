@@ -1,3 +1,5 @@
+[![🇻🇳 Tiếng Việt](https://img.shields.io/badge/Ngôn_ngữ-Tiếng_Việt-red?style=for-the-badge&logo=Google%20Translate)](README.md)
+---
 # Magisk Module Installation Guide
 
 Magisk is a powerful tool for rooting Android devices without changing the system. You can install Magisk modules to add new features to your device. Here are instructions for installing two prominent Magisk modules.
